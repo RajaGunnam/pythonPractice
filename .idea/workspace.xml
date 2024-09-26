@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c069b2f-86a3-4ec2-b743-d9c3a906a641" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Classes_Objects/Create_Classes_Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops_Programming/Inheritance_Programs01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Classes_Objects/Delete_ObjectProperties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Classes_Objects/Python_ObjectMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Classes_Objects/modify_objects_properties.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringProgramming/FindFrequencyOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringProgramming/FindFrequencyOfStrings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +38,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Create_Classes_Objects.executor": "Run",
+    "Python.Delete_ObjectProperties.executor": "Run",
     "Python.FindFrequencyOfStrings.executor": "Run",
     "Python.First_Python.executor": "Run",
     "Python.MulVars.executor": "Run",
     "Python.PalindroneProgram.executor": "Run",
     "Python.Py_Basics1.executor": "Run",
     "Python.PythonBasics-Sets.executor": "Run",
+    "Python.Python_ObjectMethods.executor": "Run",
     "Python.StringPrograms.executor": "Run",
     "Python.StringPrograms1.executor": "Run",
     "Python.Swapping_Numbers.executor": "Run",
@@ -49,6 +53,7 @@
     "Python.delete_variable.executor": "Run",
     "Python.list_Sorting.executor": "Run",
     "Python.miniCalculator.executor": "Run",
+    "Python.modify_objects_properties.executor": "Run",
     "Python.pythonTupleCreate.executor": "Run",
     "Python.python_BitwiseOperators.executor": "Run",
     "Python.python_IdentityOperators.executor": "Run",
@@ -69,7 +74,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Create_Classes_Objects">
+  <component name="RunManager" selected="Python.Delete_ObjectProperties">
     <configuration name="Create_Classes_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
@@ -84,6 +89,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Classes_Objects/Create_Classes_Objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Delete_ObjectProperties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Classes_Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Classes_Objects/Delete_ObjectProperties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PalindroneProgram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python_ObjectMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Classes_Objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringProgramming/PalindroneProgram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Classes_Objects/Python_ObjectMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse the string (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="modify_objects_properties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,33 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Classes_Objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringProgramming/reverse the string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="reverse the string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\LENOVO\PycharmProjects\PythonPractice\StringProgramming\reverse the string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Classes_Objects/modify_objects_properties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Delete_ObjectProperties" />
+        <item itemvalue="Python.modify_objects_properties" />
+        <item itemvalue="Python.Python_ObjectMethods" />
         <item itemvalue="Python.Create_Classes_Objects" />
         <item itemvalue="Python.FindFrequencyOfStrings" />
-        <item itemvalue="Python.PalindroneProgram" />
-        <item itemvalue="Python.reverse the string (1)" />
-        <item itemvalue="Python.reverse the string" />
       </list>
     </recent_temporary>
   </component>
