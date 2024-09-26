@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c069b2f-86a3-4ec2-b743-d9c3a906a641" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Oops_Programming/Bank.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops_Programming/Inheritance_Programs01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oops_Programming/Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops_Programming/Bank.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Python_ObjectMethods">
+  <component name="RunManager" selected="Python.Bank (1)">
     <configuration name="Bank (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
@@ -187,8 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Python_ObjectMethods" />
         <item itemvalue="Python.Bank (1)" />
+        <item itemvalue="Python.Python_ObjectMethods" />
         <item itemvalue="Python.Bank" />
         <item itemvalue="Python.Delete_ObjectProperties" />
         <item itemvalue="Python.modify_objects_properties" />
